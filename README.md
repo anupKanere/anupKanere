@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anup.kanere@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anup.kanere%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  <a href="mailto:kanereanup@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kanereanup%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/anupkanere" target="_blank">
+  <a href="https://linkedin.com/in/anup-kanere-02a021205" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-anupkanere-0d1117?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -146,7 +146,7 @@ I am actively looking for **Backend Software Engineer roles in Japan** (on-site,
 | | |
 |---|---|
 | **Email** | kanereanup@gmail.com |
-| **LinkedIn** | [linkedin.com/in/anupkanere](linkedin.com/in/anup-kanere-02a021205) |
+| **LinkedIn** | [linkedin.com/in/anup-kanere-02a021205](https://linkedin.com/in/anup-kanere-02a021205) |
 | **GitHub** | [github.com/anupKanere](https://github.com/anupKanere) |
 | **Location** | Bengaluru, India (open to relocation to Japan) |
 
