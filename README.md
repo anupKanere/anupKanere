@@ -128,17 +128,17 @@ Built backend systems for a **cybersecurity and vulnerability management platfor
 > This section will be updated with open-source contributions and personal projects.
 
 ---
+<!--
+## GitHub Stats 
 
-## GitHub Stats
-
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anupKanere&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupKanere&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" alt="Top Languages"/>
-</p> -->
+
 
 ---
-
+</p> -->
 ## Contact
 
 I am actively looking for **Backend Software Engineer roles in Japan** (on-site, hybrid, or remote).
