@@ -148,6 +148,7 @@ I am actively looking for **Backend Software Engineer roles in Japan** (on-site,
 | **Email** | kanereanup@gmail.com |
 | **LinkedIn** | [linkedin.com/in/anup-kanere-02a021205](https://linkedin.com/in/anup-kanere-02a021205) |
 | **GitHub** | [github.com/anupKanere](https://github.com/anupKanere) |
+| **Portfolio** | [builtbyanup.com](https://builtbyanup.com)
 | **Location** | Bengaluru, India (open to relocation to Japan) |
 
 ---
